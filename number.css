@@ -1,0 +1,50 @@
+body{
+    text-align:center;
+}
+#main-div
+{
+    width:400px;
+    height:400px;
+    background:linear-gradient(to bottom,rgba(66, 245, 114),rgba(66, 245, 114,0.3))
+}
+h1
+{
+    color:black;
+    text-decoration:underline;
+    font-size:35px;
+}
+#label-el
+{
+    font-size:30px;
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+}
+#input-el
+{
+   font-size:30px;
+   width:50px;
+   margin-top:40px;
+   margin-bottom:40px;
+   color:red;
+   text-align:center;
+}
+#result-el
+{
+    font-size:30px;
+    font-family:'Times New Roman', Times, serif;
+    /* color:blue; */
+    font-weight:bold;
+}
+#button-el
+{
+    font-size:30px;
+    border:none;
+    padding: 5px 15px;
+    font-weight:bold;
+    cursor:pointer;
+    font-family:'Times New Roman', Times, serif;
+    /* //background-color:rgb(78, 177, 235); */
+    background-color:rgb(223, 223, 200);
+    margin-bottom:5px;
+
+}
